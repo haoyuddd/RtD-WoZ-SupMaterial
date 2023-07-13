@@ -18,6 +18,8 @@ Below, we list and describe the full set of supplementary materials.
 ## Source Code
 - Data logger code
 - Fake steering wheel code
+	- Created by Henk Apeldoorn, improved by Eden Chiang and Mathias Funk
+	- Remote steer for WoZ on-road lab Inspiration: nightmode/logitech-g29#2
 
 ## Experimental material
 - Intake questionnaire
