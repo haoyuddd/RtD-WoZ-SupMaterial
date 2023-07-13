@@ -1,0 +1,156 @@
+Observation id,Observation date,Description,Media file,Total length,FPS,Weather,Subject,Behavior,Behavioral category,Modifiers,Behavior type,Start (s),Stop (s),Duration (s),Comment start,Comment stop
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,10.903,13.906,3.003,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,17.375,21.874,4.499,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,17.900,18.867,0.967,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,26.871,28.869,1.998,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,43.370,44.121,0.751,Smile,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,78.871,81.874,3.003,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,79.012,82.871,3.859,Triggered by prototype,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,88.370,90.870,2.500,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,90.621,101.871,11.250,Triggered by prototype,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,92.870,98.623,5.753,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,98.871,101.374,2.503,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,105.872,113.119,7.247,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,125.711,126.240,0.529,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,135.370,137.123,1.753,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,136.245,138.124,1.879,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,147.371,148.376,1.005,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,window,STATE,152.119,153.870,1.751,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,154.370,158.381,4.011,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Environment,Construction,Environment,,STATE,160.403,263.632,103.229,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,161.372,164.620,3.248,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,171.118,173.119,2.001,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,207.154,211.874,4.720,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,264.385,266.123,1.738,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,266.119,274.119,8.000,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,271.623,272.619,0.996,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,286.868,294.119,7.251,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,293.377,295.629,2.252,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,302.126,305.123,2.997,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,302.622,303.621,0.999,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,307.868,312.369,4.501,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,326.868,332.869,6.001,And interior,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,334.868,336.122,1.254,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,338.620,341.379,2.759,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,342.122,345.121,2.999,Talking to himself,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,"window,TV",STATE,343.121,345.870,2.749,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,351.869,354.371,2.502,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,351.871,353.630,1.759,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,356.621,362.621,6.000,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,357.873,360.123,2.250,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,391.871,394.370,2.499,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,393.621,397.383,3.762,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,399.123,401.620,2.497,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,412.891,415.869,2.978,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,418.119,421.871,3.752,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Environment,Trucks,Environment,,STATE,431.121,437.871,6.750,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,431.194,437.377,6.183,Triggered by truck,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Environment,Turning,Environment,,STATE,437.374,448.871,11.497,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,469.689,470.369,0.680,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,473.118,478.119,5.001,"摆弄衣服
+",
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,477.735,479.371,1.636,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Environment,Turning,Environment,,STATE,481.374,498.370,16.996,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,482.626,483.867,1.241,And Nikkie cam,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Other behaviours,Human,,STATE,488.620,493.623,5.003,Smile,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,494.243,495.371,1.128,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,507.119,512.121,5.002,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,531.870,534.622,2.752,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,534.125,536.619,2.494,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,539.117,540.121,1.004,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,544.870,550.867,5.997,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,554.369,555.369,1.000,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,586.869,590.370,3.501,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,604.098,605.371,1.273,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Environment,Trucks,Environment,,STATE,612.371,618.134,5.763,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,613.118,614.871,1.753,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,620.368,622.376,2.008,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Deceleration,Vehicle,,STATE,621.373,624.377,3.004,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,628.975,629.620,0.645,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,633.868,639.869,6.001,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,633.869,639.120,5.251,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,"window,TV",STATE,650.873,652.368,1.495,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look up,Human,TV,STATE,661.118,662.623,1.505,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,"window,TV",STATE,683.121,691.119,7.998,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,694.368,699.369,5.001,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,Lane change,Vehicle,,STATE,698.869,702.119,3.250,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,702.370,707.622,5.252,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Human,Look around,Human,TV,STATE,708.869,712.370,3.501,,
+18with,2022-10-17 17:01:43,"Participant 18 with prototype
+",syn-gp18-with.mp4,739.540,30.0,Sunny,Vehicle,End of the trial,,,POINT,730.371,730.371,NA,,

@@ -1,0 +1,14 @@
+// shutdown procedure raspberrypi
+
+1. connect laptop to accespoint SSID: Espace with Password: 987654321
+2. if connected start from your command line SSH client
+	ssh pi@logitech.local
+	accept os call for fingerprint by type > yes followed by enter
+3. the pi will ask you to enter UID & PWD
+		UID: pi
+		PWD: logitech
+4. now you see a prompt where you can enter linux os commands.
+		to shutdown enter:
+		sudo shutdown now.
+		
+5. disconnect raspberry pi and logitech steer from 220 VAC

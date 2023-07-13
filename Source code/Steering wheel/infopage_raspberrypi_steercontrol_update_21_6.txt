@@ -1,0 +1,22 @@
+
+1. First connect logitech steer controler to usb port on Raspberry Pi.
+2. Then power up the sensor on the real steer wheel.
+3. Connect steering wheel and rasberry pi power suply's to 220 VAC onboerd power.
+
+ %Raspebbry pi needs to be started after powerup sensor on real steerwheel.
+
+Check after +/- 2 min boot time proper working of the system by rotate real steer
+Re-center by pushbutto on sensor device if needed.
+
+If no action due to extreme position of slave steer > 
+	rotate is manual close to center position > 
+	Retry
+
+Also see infopage esp8266
+
+If sensor is powered on you must connect to SSID Espace with a laptop for testing.
+Perform at command line < ping logitech.local > to see if raspebrry pi is online.
+With ssh client you should be able to connect to raspberry pi with credentials:
+	UID: pi
+	PWD: logitech
+The program is steer.js to be started via node (Normal mode this will autostart)
