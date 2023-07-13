@@ -1,7 +1,7 @@
 `RtD-WoZ-SupMaterial`
 
 # On-road exploration of interaction design in automated vehicles to reduce automation surprise using WoZ vehicles
-`Study1: quantitative data analysis`
+`PhD-Study1`
 `Period: 2021.9 - 2021.12`
 
 The present repository includes some of the supplementary materials of the paper:
