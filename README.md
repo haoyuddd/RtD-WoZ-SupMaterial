@@ -33,24 +33,22 @@ Below, we list and describe the full set of supplementary materials.
 
 - Column
   - GPS (1Hz)
-  - Real-time-clock (absolute time)
-    - h = hour
-    - m = minute
-    - s = second
-  
-  - Lat = latitude: GPS location
-  - Lon = longitude: GPS location
-  - Speed (knots) = 1.852 km/h
-  - Angle
-  - Altitude
-
-- Accelerometer (100hz) ms
-- x = lateral movement (+ left, - right)
-- y = longitudinal movement
-- (Calibration problem: <0.1 deceleration, >0.1 acceleration)
-
-- cue = 1 (no cue)
-- cue = 0 (with cue)
+	- Real-time-clock (absolute time)
+	- h = hour
+	- m = minute
+	- s = second
+	- Lat = latitude: GPS location
+	- Lon = longitude: GPS location
+	- Speed (knots) = 1.852 km/h
+	- Angle
+	- Altitude
+  - Accelerometer (100hz) ms
+	- x = lateral movement (+ left, - right)
+	- y = longitudinal movement
+	- (Calibration problem: <0.1 deceleration, >0.1 acceleration)
+  - cue
+  	- 1 (no cue)
+	- 0 (with cue)
 
 ### Pre-questionnaire
 - The questionnaire
