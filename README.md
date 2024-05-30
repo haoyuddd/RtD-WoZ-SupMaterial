@@ -25,7 +25,7 @@ Below, we list and describe the full set of supplementary materials.
 - Intake questionnaire
 - Consent form
 - Voice notification
-- NDRAs - video link (tbd❓)
+- NDRAs - [video link](https://youtu.be/seDX-MwoMJc?si=Ygf9BcaK_FUweHU)
 
 ## Data
 ### Sensor data
@@ -83,6 +83,6 @@ How to export video annotation excel?
   3.	Select the observations you would like to save, and save as csv file.
 
 ### Interview recording
-- Transcripts in MAXQDA
+- Transcripts and coding in MAXQDA
 
 The interview was analyzed in [MAXQDA](https://www.maxqda.com/)
