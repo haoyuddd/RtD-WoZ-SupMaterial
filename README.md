@@ -6,7 +6,7 @@
 
 The present repository includes some of the supplementary materials of the paper:
 
-Dong, H., Wang, Y., Bazilinskyy, P., Martens, M. (2023). On-road exploration of non-intrusive interaction design to reduce automation surprise in non-critical automated driving scenarios. Submitted for review.
+Dong, H., Wang, Y., Bazilinskyy, P., Martens, M. (2024). Mitigating Automation Surprise in Normal Automated Driving: An WoZ On-Road Exploration with Anticipatory Cue. Submitted for review.
 
 The present Github repository is associated with the [4TU.ResearchData repository](#). 
 
